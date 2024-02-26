@@ -235,5 +235,6 @@ input ::placeholder{
 
     .wrapper{
         max-width: 100%;
+        display: grid;
     }
 }
